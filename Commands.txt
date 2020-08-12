@@ -1,0 +1,22 @@
+-------Browser-sync Commands---------
+
+npm install -g browser-sync 
+
+browser-sync start --server --directory --files "**/*"
+
+
+----Git Commands-----------
+
+git clone https://github.com/Jahanzaib125/courseraAngular.git 
+
+git status 
+
+git add .  
+
+git commit -m "First web file" 
+
+git status 
+
+git push 
+
+git config --global push.default simple
